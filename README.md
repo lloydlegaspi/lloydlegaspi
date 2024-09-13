@@ -9,17 +9,11 @@
 
 
 
-- 🖥️ Currently taking up **Bachelor of Science Computer Science program at Polytechnic University of the Philippines (PUP-Main)**
+- 🖥️ Currently taking up **Bachelor of Science Computer Science program at Polytechnic University of the Philippines - Manila**
 
 - 👀 Interested to collaborate on projects related to **Data Science, Machine Learning, and Artificial Intelligence.**
 
-- 🌱 Learning and constantly improving day by day. **Let's go!!**
-
-- 👨‍💻 Working as a **Lead ML Engineer at Google Developer Students Club - PUP Main**
-
-- 📫 You can reach me at my email address: **lloydlegaspi0802@gmail.com**
-
-- 🧩 About me: **I love exploring different things, but most of the time, I just want to rest and be boring.**
+- 📫 You can reach me at my email address: **jlloyd.legaspi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
