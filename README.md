@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! 👋, I'm John Lloyd</h1>
+<h1 align="center">Hello! 👋, I'm John Lloyd Legaspi, but you can call me Lloyd</h1>
 
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
