@@ -1,36 +1,70 @@
-<h1 align="center">Hello! 👋, I'm Lloyd</h1>
+<div align="center">
+
+# Hi, I'm Lloyd 👋
+
+### Computer Science @ PUP · Data Engineering · Analytics · Machine Learning
+
+**I build reliable data pipelines, analytical systems, and ML applications — from messy raw data to useful decisions.**
+
+<a href="mailto:jlloyd.legaspi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/lloydlegaspi">
+  <img src="https://img.shields.io/badge/GitHub-lloydlegaspi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/lloydlegaspi/Portfolio-Website">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+## ⚡ What I do
+
+```text
+Data Engineering  → ingest • validate • transform • model • orchestrate
+Analytics         → SQL • dimensional modeling • dashboards • decision support
+Machine Learning  → computer vision • NLP • evaluation • explainability
+```
+
+## 🛠️ Core stack
 
 <p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
-<p align="center">&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=lloydlegaspi&show_icons=true&locale=en" alt="lloydlegaspi" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlegaspi&" alt="lloydlegaspi" /></p>
+## 🚀 Selected work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[SnakeSight](https://github.com/lloydlegaspi/SnakeSight)** | AI-powered Philippine snake identification platform using AttenDenseNet, with explainability support for high-pressure identification workflows. | Next.js · FastAPI · TensorFlow |
+| **[Smart Warehouse Analytics](https://github.com/lloydlegaspi/smart-warehouse-dashboard)** | Real-time warehouse dashboard combining inventory insights, demand prediction, and RFID activity monitoring. | Next.js · Python · Analytics |
+| **[Resume Screening](https://github.com/lloydlegaspi/Resume-Screening)** | NLP application that classifies resumes into job categories using TF-IDF and machine learning. | Python · scikit-learn · Streamlit |
+
+---
+
+<div align="center">
+
+### Build systems that make data useful.
+
+<img src="https://komarev.com/ghpvc/?username=lloydlegaspi&label=Profile%20views&style=flat-square" alt="Profile views" />
+
+</div>
