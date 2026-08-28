@@ -51,20 +51,8 @@ Machine Learning  → computer vision • NLP • evaluation • explainability
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
-## 🚀 Selected work
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[SnakeSight](https://github.com/lloydlegaspi/SnakeSight)** | AI-powered Philippine snake identification platform using AttenDenseNet, with explainability support for high-pressure identification workflows. | Next.js · FastAPI · TensorFlow |
-| **[Smart Warehouse Analytics](https://github.com/lloydlegaspi/smart-warehouse-dashboard)** | Real-time warehouse dashboard combining inventory insights, demand prediction, and RFID activity monitoring. | Next.js · Python · Analytics |
-| **[Resume Screening](https://github.com/lloydlegaspi/Resume-Screening)** | NLP application that classifies resumes into job categories using TF-IDF and machine learning. | Python · scikit-learn · Streamlit |
-
----
-
 <div align="center">
 
 ### Build systems that make data useful.
-
-<img src="https://komarev.com/ghpvc/?username=lloydlegaspi&label=Profile%20views&style=flat-square" alt="Profile views" />
 
 </div>
